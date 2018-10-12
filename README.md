@@ -1,2 +1,2 @@
 # cronzilla
-Manage cron jobs like a zilla
+Manage cron jobs like zilla
